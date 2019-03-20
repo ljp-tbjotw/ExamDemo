@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="proverder:war">
+    <output-path>$PROJECT_DIR$/../ExamDemo/proverder/target</output-path>
+    <root id="archive" name="proverder-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="proverder:war exploded" />
+    </root>
+  </artifact>
+</component>
